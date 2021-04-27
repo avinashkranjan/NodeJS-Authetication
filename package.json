@@ -1,12 +1,12 @@
 {
   "name": "nodejs-authetication",
   "version": "1.0.0",
-  "description": "",
+  "description": "NodeJS api to handle Authentication in any application you want to use it in.",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "Avinash Kr. Ranjan",
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
